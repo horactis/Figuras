@@ -1,0 +1,19 @@
+package Test;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class TestRectangulo {
+
+	@Test
+	void testPerimetro() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testArea() {
+		fail("Not yet implemented");
+	}
+
+}
